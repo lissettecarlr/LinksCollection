@@ -66,6 +66,9 @@
 |[gpt-migrate](https://github.com/joshpxyne/gpt-migrate)|通过GPT切换代码语言|
 
 ## 学习
+
+|名称|简介|使用体验|
+|---|---|---|
 |[devops-exercises](https://github.com/bregman-arie/devops-exercises)|DevOps开发运维||
 
 ## 破解
@@ -107,11 +110,14 @@
 
 ## 通信
 
+|名称|简介|使用体验|
+|---|---|---|
 |[chitchatter](https://chitchatter.im/)|去中心化，点对点聊天||
 
 ## 有趣的东西
 
 |名称|简介|使用体验|
+|---|---|---|
 |[AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)|让儿童涂鸦动起来||
 |[VPet](https://github.com/LorisYounger/VPet)|虚拟桌宠||
 
