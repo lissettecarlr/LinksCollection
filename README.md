@@ -6,7 +6,7 @@
 
 |名称|简介|使用体验|
 |---|---|---|
-|[Open Chat Video Editor](https://github.com/SCUTlihaoyu/open-chat-video-editor)|源的短视频生成和编辑工具||
+|[Open Chat Video Editor](https://github.com/SCUTlihaoyu/open-chat-video-editor)|短视频生成和编辑工具||
 |[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN/blob/master/README_CN.md)|视频修复增强||
 |[pyvideotrans](https://github.com/jianchang512/pyvideotrans)|将视频从一种语言翻译为另一种语言，并添加配音||
 |[topazlabs](https://www.topazlabs.com/)|视频增强|正版付费，巨贵无比，有破解，使用简单，效果也不错|
