@@ -5,7 +5,7 @@
 * [图片处理](#图片处理)
 * [音频处理](#音频处理)
 * [文本处理](#文本处理)
-* [网络工具](#网络工具)
+* [网络信息](#网络信息)
 * [云编辑工具](#云编辑工具)
 * [终端工具](#终端工具)
 * [代码](#代码)
@@ -30,6 +30,10 @@
 |[Squirrel-RIFE](https://github.com/Justin62628/Squirrel-RIFE/releases/tag/v3.20.4)|动漫补帧||
 |[backgroundremover](https://github.com/nadermx/backgroundremover)|去除视频和图片的背景||
 |[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|实时换脸||
+|[recordscreen](https://recordscreen.io/)|在线录屏||
+|[grape](https://www.grape.codes/)|在线直播编码||
+|[vercel](https://ffmpeg-online.vercel.app/?inputOptions=-i&output=output.mp4&outputOptions=)|在线ffmpeg||
+
 
 ## 图片处理
 
@@ -61,6 +65,9 @@
 |[Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)|一个基于VITS的简单易用的变声框架||
 |[audiocraft](https://github.com/facebookresearch/audiocraft)|用于音频生成深度学习研究的 PyTorch 库||
 |[godlucky](https://whisper.godlucky.net/)|在线音频字幕生成||
+|[vocalremover](https://vocalremover.org/)|人声伴奏分离||
+|[subtitlewhisper](https://subtitlewhisper.com/)|字幕生成器||
+
 
 ## 文本处理
 
@@ -99,7 +106,7 @@
 |[dnsdumpster](https://dnsdumpster.com)|DNS记录||
 |[maclookup](https://maclookup.app/)|MAC 地址供应商查找||
 |[macvendors](https://macvendors.com/)|MAC 地址供应商查找||
-
+|[httpie](https://httpie.io/app)|在线接口测试 - HTTPie||
 
 ## 云编辑工具
 
@@ -110,6 +117,7 @@
 |[excalidraw](https://excalidraw.com/)|在线手绘板||
 |[mahua](https://mahua.jser.me/)|在线markdown编辑器||
 |[lceda](https://lceda.cn/)|嘉立创的在线PCB编辑器|
+|[desmos](https://www.desmos.com/calculator?lang=zh-CN)|通过公式生成图像||
 
 ## 终端工具
 
@@ -127,13 +135,34 @@
 |[pywebview](https://github.com/r0x0r/pywebview)|使用 JavaScript、HTML 和 CSS 为 Python 程序构建 GUI||
 |[gpt-migrate](https://github.com/joshpxyne/gpt-migrate)|通过GPT切换代码语言|
 |[codelf](https://github.com/unbug/codelf)|变量命名工具||
-
+|[reflex](https://github.com/reflex-dev/reflex/blob/main/docs/zh/zh_cn/README.md)|python前端||
+|[pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)|bash功能执行各种任务的常见和鲜为人知的方法||
 
 ## 学习
 
 |名称|简介|使用体验|
 |---|---|---|
 |[devops-exercises](https://github.com/bregman-arie/devops-exercises)|DevOps开发运维||
+|[The Algorithms](https://the-algorithms.com/zh_Hans)|算法库||
+|[leetcode](https://leetcode-cn.com/)|算法刷题||
+|[cxyxiaowu](http://www.cxyxiaowu.com/)|一个算法信息网站||
+|[hello-algo](https://www.hello-algo.com/chapter_preface/suggestions/)|web算法书||
+|[thepalindrome](https://thepalindrome.org/p/matrices-and-graphs)|矩阵与图||
+|[Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md#-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)|收集了AIGC的各种教程和资源的仓库||
+|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|学习如何从头开始构建||
+|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|使用python使用算法||
+|[nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded)|嵌入式知识汇总的仓库||
+|[free-programming-books](https://github.com/EbookFoundation/free-programming-books)|各类编程数据的导航仓库||
+|[python-small-examples](https://github.com/jackzhenguo/python-small-examples)|python实用小例子||
+|[faif/python-patterns](https://github.com/faif/python-patterns)|python的设计模式||
+|[vinta/awesome-python](https://github.com/vinta/awesome-python)|Python 框架、库、软件和资源列表||
+|[awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)|设计模式||
+|[chinesehuazhou/python-whydo](https://github.com/chinesehuazhou/python-whydo)|问题探索 Python||
+|[ai-edu](https://microsoft.github.io/ai-edu/)|微软人工智能教育与学习共建社区|停更很久，但文章很基础易懂|
+|[roboflow/notebooks](https://github.com/roboflow/notebooks)|计算机视觉相关资料整理仓库||
+|[AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)|微软的初学者人工智能课程||
+|[xraft](https://xraft.github.io/2018/03/21/FaceRecognition/)|一篇讲人脸识别的博文||
+|[ MBA智库百科](https://wiki.mbalib.com/wiki/%E5%85%AD%E8%A5%BF%E6%A0%BC%E7%8E%9B)|六西格玛||
 
 ## 破解
 
@@ -151,6 +180,17 @@
 |[TrackersListCollection](https://github.com/XIU2/TrackersListCollection)|BT Tracker 列表||
 |[trackerslist](https://github.com/ngosang/trackerslist)|BT Tracker 列表||
 |[fanmingming](https://github.com/fanmingming/live)|一个国内可直连的直播源||
+|[knat](https://zlib.knat.network/)|书籍在线搜索工具||
+|[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)|telegram搜索||
+|[xmsoushu](https://xmsoushu.com/#/)|熊猫搜书||
+|[磁力猫](https://xn--vur557cbpe6y0c.lol/)|磁链搜索器||
+|[anybt](https://anybt.eth.limo/)|磁链搜索器||
+|[liuzhijin](https://music.liuzhijin.cn/)|音乐直链搜索||
+|[bookmarkearth](https://www.bookmarkearth.com/s/)|浏览器书签搜索||
+|[oalib](https://www.oalib.com/)|一个开放的论文期刊图书馆||
+|[arxiv](https://arxiv.org/)|开放的论文存储库||
+|[examcoo](https://www.examcoo.com/index/ku)|考试酷-免费的考试信息||
+|[msdn](msdn.itellyou.cn)|系统下载||
 
 ## 其他
 
@@ -174,7 +214,9 @@
 |[ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder)|自动化字幕下载||
 |[afdian](https://afdian.net/@AdventCirno)|鬼才琪露诺的翻译引擎|目前日式RPG的云汉化基本全是用这个软件|
 |[dango](https://translator.dango.cloud/)|团子翻译器|属于ocr识别后翻译|
-
+|[duckduckgo](https://duckduckgo.com/)|隐私地进行搜索||
+|[devtoys](https://devtoys.app/)|windows应用工具箱||
+|[anki](http://www.ankichina.net/manual/anki/)|科学记忆的软件||
 
 ## 通信
 
@@ -183,7 +225,10 @@
 |[chitchatter](https://chitchatter.im/)|去中心化，点对点聊天||
 |[horuspass](https://horuspass.com/send)|阅后即焚||
 |[tailscale](https://login.tailscale.com/login?next_url=%2Fadmin%2Fmachines)|内网穿透服务||
-
+|[resend](https://resend.com/)|邮件代发||
+|[getaether](https://getaether.net/)|点对点临时通信||
+|[firefox](https://relay.firefox.com/)|马甲邮箱||
+|[Mastodon](https://joinmastodon.org/servers)|开源去中心化社交网络||
 
 ## 有趣的东西
 
@@ -199,6 +244,7 @@
 |---|---|---|
 |[MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)|《明日方舟》小助手，全日常一键长草||
 |[saveeditonline](https://www.saveeditonline.com)|RPG存档在线编辑器||
+|[seiya-saiga](https://seiya-saiga.com/save.html)|游戏存档搜索||
 
 ## 存储
 
@@ -229,3 +275,27 @@
 |[aihub](https://www.aihub.cn/)|AI相关内容聚合|
 |[axutongxue](https://axutongxue.com/)|软件收藏|
 |[67tool](https://www.67tool.com)|在线聚合工具箱||
+|[Efficiency](https://spcqwserdvymm.com.vika.cn/share/shryNwH3HRgvzMTaZVAGx/dstj2CheHZ8esYJ6rd)|站点导航|比较庞大|
+|[bilibili](https://www.bilibili.com/read/cv12702249)|互联网资源整合||
+
+
+
+## 虚拟号
+
+|名称|简介|使用体验|
+|---|---|---|
+[receive-smss](https://receive-smss.com/)|SMS接收短信||
+[sms-activate](https://sms-activate.org/cn)|SMS接收短信||
+[sms-man](https://sms-man.com/cn)|SMS接收短信||
+[grizzlysms](https://grizzlysms.com/cn/countries/japan)|SMS接收短信||
+|[tiger-sms](https://tiger-sms.com/#howitworks)|SMS接收短信||
+
+## 服务平台
+
+|名称|简介|使用体验|
+|---|---|---|
+|[web.archive](https://web.archive.org/)|能够通过域名查看web页面的历史样式||
+|[serpapi](https://serpapi.com/dashboard)|提供API搜索网站的服务平台||
+|[qweather](https://console.qweather.com/#/apps)|提供API搜索天气的服务平台||
+|[shodan](https://help.shodan.io/the-basics/what-is-shodan)|互联网搜索引擎||
+|[一言](https://hitokoto.cn/)|提供API输出随机短句||
