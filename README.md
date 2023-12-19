@@ -7,12 +7,9 @@
 |[网络信息](#网络信息)|[通信](#通信)|[存储](#存储)|[资源](#资源)|
 |[云编辑工具](#云编辑工具)|[终端工具](#终端工具)|[学习](#学习)|[代码](#代码)|
 |[云服务商](#云服务商)|[服务平台](#服务平台)|[虚拟号](#虚拟号)|[聚合类](#聚合类)|
+|[格式转换](#格式转换)|[破解](#破解)|[其他](#其他)|[有趣的东西](#有趣的东西)|
+|[游戏相关工具](#游戏)||||
 
-* [格式转换](#格式转换)
-* [破解](#破解)
-* [其他](#其他)
-* [有趣的东西](#有趣的东西)
-* [游戏](#游戏)
 
 
 
@@ -65,7 +62,8 @@
 |[godlucky](https://whisper.godlucky.net/)|在线音频字幕生成||
 |[vocalremover](https://vocalremover.org/)|人声伴奏分离||
 |[subtitlewhisper](https://subtitlewhisper.com/)|字幕生成器||
-
+|[jianchang512/clone-voice](https://github.com/jianchang512/clone-voice)|声音克隆工具||
+|[coqui-ai/TTS](https://github.com/coqui-ai/TTS/)|文字转语言框架||
 
 ## 文本处理
 
@@ -107,6 +105,7 @@
 |[httpie](https://httpie.io/app)|在线接口测试 - HTTPie||
 |[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)|自部署的托管监控工具||
 |[RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck)|测试IPv4解锁情况|流媒体平台及游戏区域限制测试|
+|[trippy](https://trippy.cli.rs/)|网络分析工具||
 
 ## 云编辑工具
 
@@ -137,6 +136,7 @@
 |[codelf](https://github.com/unbug/codelf)|变量命名工具||
 |[reflex](https://github.com/reflex-dev/reflex/blob/main/docs/zh/zh_cn/README.md)|python前端||
 |[pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)|bash功能执行各种任务的常见和鲜为人知的方法||
+|[codepen](https://codepen.io/)|前端在线设计||
 
 ## 学习
 
@@ -163,6 +163,10 @@
 |[AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)|微软的初学者人工智能课程||
 |[xraft](https://xraft.github.io/2018/03/21/FaceRecognition/)|一篇讲人脸识别的博文||
 |[ MBA智库百科](https://wiki.mbalib.com/wiki/%E5%85%AD%E8%A5%BF%E6%A0%BC%E7%8E%9B)|六西格玛||
+|[ascoders/weekly](https://github.com/ascoders/weekly)|前端精读||
+|[awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)|面试题列表||
+|[mli/paper-reading](https://github.com/mli/paper-reading?tab=readme-ov-file)|深度学习经典、新论文逐段精读||
+
 
 ## 破解
 
@@ -192,6 +196,9 @@
 |[examcoo](https://www.examcoo.com/index/ku)|考试酷-免费的考试信息||
 |[msdn](msdn.itellyou.cn)|系统下载||
 |[panyq](https://panyq.com)|网盘资源搜索||
+|[Ftindy/IPTV-URL](https://github.com/Ftindy/IPTV-URL)|直播源列表||
+|[HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources)|一个自动更新直播源的脚本||
+
 ## 其他
 
 |名称|简介|使用体验|
@@ -217,6 +224,7 @@
 |[duckduckgo](https://duckduckgo.com/)|隐私地进行搜索||
 |[devtoys](https://devtoys.app/)|windows应用工具箱||
 |[anki](http://www.ankichina.net/manual/anki/)|科学记忆的软件||
+|[fail2ban](https://linuxiac.com/how-to-protect-ssh-with-fail2ban/)|使用fail2ban来保护ssh||
 
 ## 通信
 
@@ -264,7 +272,7 @@
 |[convertio](https://convertio.co/zh)|音频视频文本多种格式转换的聚合在线工具|
 |[worthsee](https://ncm.worthsee.com/)|网易云的NCM转MP3在线工具|github上也有NCM转MP3的开源本地转换工具|
 |[alltoall](www.alltoall.net)|PDF转word||
-
+|[marker](https://github.com/VikParuchuri/marker)|PDF转markdown|需要部署|
 ## 聚合类
 
 |名称|简介|使用体验|
@@ -276,7 +284,9 @@
 |[axutongxue](https://axutongxue.com/)|软件收藏|
 |[67tool](https://www.67tool.com)|在线聚合工具箱||
 |[Efficiency](https://spcqwserdvymm.com.vika.cn/share/shryNwH3HRgvzMTaZVAGx/dstj2CheHZ8esYJ6rd)|站点导航|比较庞大|
-|[bilibili](https://www.bilibili.com/read/cv12702249)|互联网资源整合||
+|[bilibili-cv12702249](https://www.bilibili.com/read/cv12702249)|互联网资源整合||
+|[the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)|列表、手册、小抄、博客、黑客、一行程序、cli/web工具等等||
+|[Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)|程序员应该访问的最佳网站中文版||
 
 
 ## 虚拟号
@@ -312,3 +322,7 @@
 |[ucloud](https://www.ucloud.cn/site/about/intro/)|优刻得，国内云计算服务服务商||
 |[hostman](https://hostman.com/)|部署 Web 应用程序的托管平台||
 |[cloudcone](https://cloudcone.com/vps/#pricingtitle)|VPS|便宜是便宜不知道好不好用|
+|[railway](https://railway.app/account/billing)|帮助快速构建应用的云服务|我之前是用来当作云数据库，有5美元免费额度，后来AI火了后很多项目应用也是有这个的部署示例|
+|[PlanetScale](https://planetscale.com/)|MySQL云数据库||
+|[vercel](https://vercel.com/dashboard)|web应用托管平台||
+|[godaddy](https://www.godaddy.com/)|云服务器||
