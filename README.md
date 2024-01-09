@@ -64,6 +64,7 @@
 |[subtitlewhisper](https://subtitlewhisper.com/)|字幕生成器||
 |[jianchang512/clone-voice](https://github.com/jianchang512/clone-voice)|声音克隆工具||
 |[coqui-ai/TTS](https://github.com/coqui-ai/TTS/)|文字转语言框架||
+|[ttson](https://www.ttson.cn/)|免费在线的文本转语言||
 
 ## 文本处理
 
@@ -78,7 +79,8 @@
 |[oxyry](https://pyob.oxyry.com/)|python在线混淆器||
 |[f-loat](https://f-loat.github.io/caption2text/)|字幕转文本|也就是去除字幕文件中的时间|
 |[immersivetranslate](https://immersivetranslate.com/)|浏览器翻译插件|能够显示原本和翻译文本，非常好用|
-
+|[Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)|对PDF进行操作的web服务开源代码||
+|[racknerd](https://my.racknerd.com/cart.php?a=view)|vps|2C3G每年28美元|
 
 ## 网络信息
 
@@ -106,6 +108,7 @@
 |[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)|自部署的托管监控工具||
 |[RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck)|测试IPv4解锁情况|流媒体平台及游戏区域限制测试|
 |[trippy](https://trippy.cli.rs/)|网络分析工具||
+|[Lengso/iplookup](https://github.com/Lengso/iplookup)|IP反查域名||
 
 ## 云编辑工具
 
@@ -137,6 +140,7 @@
 |[reflex](https://github.com/reflex-dev/reflex/blob/main/docs/zh/zh_cn/README.md)|python前端||
 |[pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)|bash功能执行各种任务的常见和鲜为人知的方法||
 |[codepen](https://codepen.io/)|前端在线设计||
+|[heyman/heynote](https://github.com/heyman/heynote)|为开发人员提供的专用草稿|支持多种语言的代码草稿，能够显示数学计算结果|
 
 ## 学习
 
@@ -198,7 +202,7 @@
 |[panyq](https://panyq.com)|网盘资源搜索||
 |[Ftindy/IPTV-URL](https://github.com/Ftindy/IPTV-URL)|直播源列表||
 |[HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources)|一个自动更新直播源的脚本||
-
+|[microsoft](https://create.microsoft.com/en-us)|免费的ppt和excel表格模板||
 ## 其他
 
 |名称|简介|使用体验|
@@ -225,6 +229,8 @@
 |[devtoys](https://devtoys.app/)|windows应用工具箱||
 |[anki](http://www.ankichina.net/manual/anki/)|科学记忆的软件||
 |[fail2ban](https://linuxiac.com/how-to-protect-ssh-with-fail2ban/)|使用fail2ban来保护ssh||
+|[haveibeenpwned](https://haveibeenpwned.com/)|通过输入邮箱查密码是否被泄露|试了试还挺有意思的|
+|[Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)|简历生成工具||
 
 ## 通信
 
@@ -245,6 +251,7 @@
 |[AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)|让儿童涂鸦动起来||
 |[VPet](https://github.com/LorisYounger/VPet)|虚拟桌宠||
 |[make.girls](https://make.girls.moe/#/)|在线生成虚拟角色||
+|[imgpilot](https://www.imgpilot.com/)|通过描述和简笔画生成图像||
 
 ## 游戏
 
@@ -321,8 +328,9 @@
 |[vultr](https://my.vultr.com/)|14年成立的的VPS提供商|最开始使用的一家，用来搭梯子，然后被频繁封IP了- -|
 |[ucloud](https://www.ucloud.cn/site/about/intro/)|优刻得，国内云计算服务服务商||
 |[hostman](https://hostman.com/)|部署 Web 应用程序的托管平台||
-|[cloudcone](https://cloudcone.com/vps/#pricingtitle)|VPS|便宜是便宜不知道好不好用|
+|[cloudcone](https://cloudcone.com/vps/#pricingtitle)|VPS|圣诞节9.5美元买了个1CPU-0.5GB，两百多延迟，部署了个网页，目前看来没啥明显问题|
 |[railway](https://railway.app/account/billing)|帮助快速构建应用的云服务|我之前是用来当作云数据库，有5美元免费额度，后来AI火了后很多项目应用也是有这个的部署示例|
 |[PlanetScale](https://planetscale.com/)|MySQL云数据库||
 |[vercel](https://vercel.com/dashboard)|web应用托管平台||
 |[godaddy](https://www.godaddy.com/)|云服务器||
+|[spartanhost](https://spartanhost.org/vps)|美国VPS||
