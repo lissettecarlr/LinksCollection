@@ -1,6 +1,8 @@
 # LinksCollection
 目前我的谷歌书签太臃肿，找个东西看半天，在这里记录后，书签就存放常用的，有空了就移移。
 
+
+
 |||||
 |---|---|---|---|
 |[视频处理](#视频处理)|[图片处理](#图片处理)|[音频处理](#音频处理)|[文本处理](#文本处理)|
@@ -65,6 +67,8 @@
 |[jianchang512/clone-voice](https://github.com/jianchang512/clone-voice)|声音克隆工具||
 |[coqui-ai/TTS](https://github.com/coqui-ai/TTS/)|文字转语言框架||
 |[ttson](https://www.ttson.cn/)|免费在线的文本转语言||
+|[jianchang512/vocal-separate](https://github.com/jianchang512/vocal-separate)|人声和背景音分离||
+
 
 ## 文本处理
 
@@ -80,7 +84,8 @@
 |[f-loat](https://f-loat.github.io/caption2text/)|字幕转文本|也就是去除字幕文件中的时间|
 |[immersivetranslate](https://immersivetranslate.com/)|浏览器翻译插件|能够显示原本和翻译文本，非常好用|
 |[Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)|对PDF进行操作的web服务开源代码||
-|[racknerd](https://my.racknerd.com/cart.php?a=view)|vps|2C3G每年28美元|
+|[Aegisub](https://github.com/Aegisub/Aegisub)|跨平台高级字幕编辑器||
+
 
 ## 网络信息
 
@@ -141,7 +146,7 @@
 |[pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)|bash功能执行各种任务的常见和鲜为人知的方法||
 |[codepen](https://codepen.io/)|前端在线设计||
 |[heyman/heynote](https://github.com/heyman/heynote)|为开发人员提供的专用草稿|支持多种语言的代码草稿，能够显示数学计算结果|
-
+|[tab=readme-ov-file](https://github.com/nealmckee/penumbra?tab=readme-ov-file)|代码配色||
 ## 学习
 
 |名称|简介|使用体验|
@@ -231,6 +236,7 @@
 |[fail2ban](https://linuxiac.com/how-to-protect-ssh-with-fail2ban/)|使用fail2ban来保护ssh||
 |[haveibeenpwned](https://haveibeenpwned.com/)|通过输入邮箱查密码是否被泄露|试了试还挺有意思的|
 |[Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)|简历生成工具||
+|[GoMusic](https://github.com/Bistutu/GoMusic)|迁移网易云/QQ音乐歌单至 Apple/Youtube/Spotify Music||
 
 ## 通信
 
@@ -334,3 +340,4 @@
 |[vercel](https://vercel.com/dashboard)|web应用托管平台||
 |[godaddy](https://www.godaddy.com/)|云服务器||
 |[spartanhost](https://spartanhost.org/vps)|美国VPS||
+|[racknerd](https://my.racknerd.com/cart.php?a=view)|vps|2C3G每年28美元|
