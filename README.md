@@ -147,6 +147,9 @@
 |[codepen](https://codepen.io/)|前端在线设计||
 |[heyman/heynote](https://github.com/heyman/heynote)|为开发人员提供的专用草稿|支持多种语言的代码草稿，能够显示数学计算结果|
 |[tab=readme-ov-file](https://github.com/nealmckee/penumbra?tab=readme-ov-file)|代码配色||
+|[marimo-team/marimo](https://github.com/marimo-team/marimo)|python的web笔记本，类似Jupyter||
+|[ant-codeAI](https://github.com/sparrow-js/ant-codeAI)|通过GPT生成前端 ||
+
 ## 学习
 
 |名称|简介|使用体验|
@@ -208,6 +211,8 @@
 |[Ftindy/IPTV-URL](https://github.com/Ftindy/IPTV-URL)|直播源列表||
 |[HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources)|一个自动更新直播源的脚本||
 |[microsoft](https://create.microsoft.com/en-us)|免费的ppt和excel表格模板||
+
+
 ## 其他
 
 |名称|简介|使用体验|
@@ -230,6 +235,7 @@
 |[ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder)|自动化字幕下载||
 |[afdian](https://afdian.net/@AdventCirno)|鬼才琪露诺的翻译引擎|目前日式RPG的云汉化基本全是用这个软件|
 |[dango](https://translator.dango.cloud/)|团子翻译器|属于ocr识别后翻译|
+|[zggsong/stranslate](https://github.com/zggsong/stranslate)|开源翻译器||
 |[duckduckgo](https://duckduckgo.com/)|隐私地进行搜索||
 |[devtoys](https://devtoys.app/)|windows应用工具箱||
 |[anki](http://www.ankichina.net/manual/anki/)|科学记忆的软件||
@@ -237,6 +243,9 @@
 |[haveibeenpwned](https://haveibeenpwned.com/)|通过输入邮箱查密码是否被泄露|试了试还挺有意思的|
 |[Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)|简历生成工具||
 |[GoMusic](https://github.com/Bistutu/GoMusic)|迁移网易云/QQ音乐歌单至 Apple/Youtube/Spotify Music||
+|[lizongying/my-tv](https://github.com/lizongying/my-tv)|安卓电视直播软件，内置直播源||
+|[assimon/dujiaoka](https://github.com/assimon/dujiaoka)|独角数卡(自动售货系统)-开源站长自动化售货解决方案||
+|[bluemd](https://www.bluemd.me/)|markdown编辑器||
 
 ## 通信
 
@@ -286,6 +295,9 @@
 |[worthsee](https://ncm.worthsee.com/)|网易云的NCM转MP3在线工具|github上也有NCM转MP3的开源本地转换工具|
 |[alltoall](www.alltoall.net)|PDF转word||
 |[marker](https://github.com/VikParuchuri/marker)|PDF转markdown|需要部署|
+|[Tichau/FileConverter](https://github.com/Tichau/FileConverter)|windows右键菜单的格式转换工具||
+
+
 ## 聚合类
 
 |名称|简介|使用体验|
