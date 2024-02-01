@@ -53,6 +53,7 @@
 |[simpletex](https://simpletex.cn/ai/latex_ocr)|OCR公式识别||
 |[yandex](https://yandex.com/)|图片溯源||
 |[trace.moe](https://trace.moe/)|动漫图片溯源||
+|[inpaint-web](https://github.com/lxfater/inpaint-web)|开源的图片修复和超分辨率工具||
 
 ## 音频处理
 
@@ -210,6 +211,7 @@
 |[panyq](https://panyq.com)|网盘资源搜索||
 |[Ftindy/IPTV-URL](https://github.com/Ftindy/IPTV-URL)|直播源列表||
 |[HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources)|一个自动更新直播源的脚本||
+|[joevess/IPTV](https://github.com/joevess/IPTV)|IPTV直播源抓取|
 |[microsoft](https://create.microsoft.com/en-us)|免费的ppt和excel表格模板||
 
 
