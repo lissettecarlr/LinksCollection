@@ -69,6 +69,7 @@
 |[coqui-ai/TTS](https://github.com/coqui-ai/TTS/)|文字转语言框架||
 |[ttson](https://www.ttson.cn/)|免费在线的文本转语言||
 |[jianchang512/vocal-separate](https://github.com/jianchang512/vocal-separate)|人声和背景音分离||
+|[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)|1分钟的语音数据也可以用来训练一个很好的TTS模型!(少量镜头语音克隆)||
 
 
 ## 文本处理
@@ -179,7 +180,7 @@
 |[ascoders/weekly](https://github.com/ascoders/weekly)|前端精读||
 |[awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)|面试题列表||
 |[mli/paper-reading](https://github.com/mli/paper-reading?tab=readme-ov-file)|深度学习经典、新论文逐段精读||
-
+|[linux-tutorial](https://github.com/dunwu/linux-tutorial)|Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本||
 
 ## 破解
 
@@ -248,6 +249,9 @@
 |[lizongying/my-tv](https://github.com/lizongying/my-tv)|安卓电视直播软件，内置直播源||
 |[assimon/dujiaoka](https://github.com/assimon/dujiaoka)|独角数卡(自动售货系统)-开源站长自动化售货解决方案||
 |[bluemd](https://www.bluemd.me/)|markdown编辑器||
+|[qarmin/czkawka](https://github.com/qarmin/czkawka)|多功能应用程序，可查找重复项、空文件夹、相似图像等。||
+|[clash-rules](https://github.com/Loyalsoldier/clash-rules)|Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端||
+
 
 ## 通信
 
@@ -348,10 +352,10 @@
 |[vultr](https://my.vultr.com/)|14年成立的的VPS提供商|最开始使用的一家，用来搭梯子，然后被频繁封IP了- -|
 |[ucloud](https://www.ucloud.cn/site/about/intro/)|优刻得，国内云计算服务服务商||
 |[hostman](https://hostman.com/)|部署 Web 应用程序的托管平台||
-|[cloudcone](https://cloudcone.com/vps/#pricingtitle)|VPS|圣诞节9.5美元买了个1CPU-0.5GB，两百多延迟，部署了个网页，目前看来没啥明显问题|
+|[cloudcone](https://cloudcone.com/vps/#pricingtitle)|VPS|圣诞节9.5美元买了个1CPU-0.5GB，两百多延迟，部署了个网页，偶尔会无法连接|
 |[railway](https://railway.app/account/billing)|帮助快速构建应用的云服务|我之前是用来当作云数据库，有5美元免费额度，后来AI火了后很多项目应用也是有这个的部署示例|
 |[PlanetScale](https://planetscale.com/)|MySQL云数据库||
 |[vercel](https://vercel.com/dashboard)|web应用托管平台||
 |[godaddy](https://www.godaddy.com/)|云服务器||
 |[spartanhost](https://spartanhost.org/vps)|美国VPS||
-|[racknerd](https://my.racknerd.com/cart.php?a=view)|vps|2C3G每年28美元|
+|[racknerd](https://my.racknerd.com/cart.php?a=view)|vps|2C3G每年28美元，便宜是便宜，但是特么用一段时间后你就知道有多卡|
